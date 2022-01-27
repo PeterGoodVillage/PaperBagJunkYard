@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBABaF9b1c88dBF1bCC7447Bcfd9761516BAd51a8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xbabaf9b1c88dbf1bcc7447bcfd9761516bad51a8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Paper bag Junkyard NFT",
+  "SYMBOL": "PBJNFT",
+  "MAX_SUPPLY": 3300,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/paper-bag-junkyard",
+  "SHOW_BACKGROUND": true
+}
